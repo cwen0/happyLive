@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "mfJrsIbdHEdJ0LqSb3jDGTHZ5MU=",
+			"path": "golang.org/x/net/websocket",
+			"revision": "69483ab4f4023da8f2ed20fe691ac6fcfc4e57ca",
+			"revisionTime": "2014-12-15T03:49:29Z"
+		}
+	],
+	"rootPath": "github.com/cwen0/happyLive"
+}
